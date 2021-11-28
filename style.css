@@ -125,6 +125,10 @@ body .wrapper {
     margin: auto;
 }
 
+.pink__bg{
+    background-color: #FFEFE1;
+}
+
 @media screen and (min-width: 1920px) {
     .text-wrapper {
         max-width: 1080px;
